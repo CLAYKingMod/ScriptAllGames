@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/CLAYKingMod/ScriptAllGames/refs/heads/main/CLAYKingModXAppleMod?token=GHSAT0AAAAAAC5VO6O7GOQV25UIOIJLO2F6Z4QLNCQ')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/CLAYKingMod/ScriptAllGames/refs/heads/main/CLAYKingModXAppleMod')))()
 
 local Window = OrionLib:MakeWindow({Name = "CLAYKingModXAppleMod", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
